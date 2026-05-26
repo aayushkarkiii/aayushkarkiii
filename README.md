@@ -2,7 +2,7 @@
 
 ### A passionate developer  interested in AI/ML with corresponding data.
 
-### Listen, Machine is Learning, I'm also learning
+### Listen, machine is learning; that's why I'm also learning.
 ---
 
 ## 🚀 About Me
@@ -12,7 +12,7 @@
 - 👯 I’m open to collaborating on innovative AI/ML projects.
 - 💬 Ask me about Python, machine learning, data analysis, or web development.
 - 📫 How to reach me: aayushkarki1215@gmail.com
-- ⚡ Fun fact: I think I'm Introvert but not at all.
+- ⚡ Fun fact: I think I'm an introvert, but not at all.
 
 ---
 
