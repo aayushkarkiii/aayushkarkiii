@@ -1,6 +1,6 @@
 # Hi there, I'm Aayush Karki 👋
 
-### A passionate developer from Nepal interested in AI/ML with corresponding data.
+### A passionate developer  interested in AI/ML with corresponding data.
 
 ---
 
