@@ -53,6 +53,6 @@ Here are some of the tools and technologies I work with:
 
 ---
 
-_Generated with ❤️ by Manus AI_
+
 
 
