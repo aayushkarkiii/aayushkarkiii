@@ -49,7 +49,7 @@ Here are some of the tools and technologies I work with:
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/aayushkarkii](https://www.linkedin.com/in/aayush-karkii/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/aayush-karkii/))
 
 ---
 
