@@ -2,6 +2,7 @@
 
 ### A passionate developer  interested in AI/ML with corresponding data.
 
+### Listen, Machine is Learning, I'm also learning
 ---
 
 ## 🚀 About Me
